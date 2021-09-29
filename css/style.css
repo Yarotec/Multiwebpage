@@ -1,0 +1,64 @@
+nav {
+    
+    width: 100%;
+    height: 80px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: #D77D58;
+    
+    
+    
+  }
+
+ 
+  header {
+    position: relative;
+    top: 75px;
+    width: 100%;
+    height: 60px;
+    background-color:#EB7164;
+    margin-top: 10px;
+    color: black;
+    text-align: center;
+    font-size: 2em;
+    padding-top: 10px;
+  }
+  
+
+  p {
+    margin-bottom: 20px;
+  }
+
+  html {
+
+    background-color: #6AB8A8;
+  }
+
+ 
+  
+a:link {
+    color: red;
+  }
+  
+ 
+  a:visited {
+    color: green;
+  }
+  
+  
+  a:hover {
+    color: hotpink;
+  }
+  
+  
+  a:active {
+    color: blue;
+  }
+
+  .img-iupui{
+
+    
+    height: 200px;
+
+  }
